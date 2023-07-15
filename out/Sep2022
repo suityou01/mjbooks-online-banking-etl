@@ -1,14 +1,14 @@
 DATE,DETAILS,BANK_1,BANK_2,BANK_3,ER,CASH_ACCOUNTING_VAT,BANK_CHARGES,EXPENSE_10,ACCOUNTANCY,OTHER_USE,CORPORATION_TAX,VAT_PAYMENT,UNUSED,PAYE_OR_NIC,LOAN_PAYMENTS,FIXED_ASSET_PURCHASES,COMMENTS,TCODE
-27/09/2022,Amazon.co.uk ZH3982KM5,,,,,,,,,,,,,,,,,4
-22/09/2022,Emma Benger-Stevenson BPMGROUPLTD,,,,,,,,,,,,,,,,,7
-22/09/2022,CHARLES BENGER-STEVENSON The BPM Group,,,,,,,,,,,,,,,,,7
-22/09/2022,Emma Benger-Stevenson BPMGROUPLTD,,,,,,,,,,,,,,,,,7
-22/09/2022,CHARLES BENGER-STEVENSON The BPM Group,,,,,,,,,,,,,,,,,7
-20/09/2022,WWW.VEVOR.CO.UK,,,,,,,,,,,,,,,,,
-20/09/2022,Microsoft G014635346,,,,,,,,,,,,,,,,,4
-14/09/2022,CHARLES BENGER-STEVENSON The BPM Group,,,,,,,,,,,,,,,,,7
-09/09/2022,CHARLES BENGER-STEVENSON The BPM Group,,,,,,,,,,,,,,,,,7
-07/09/2022,HMRC VAT Operations 329868644,,,,,,,,,,,,,,,,,
-06/09/2022,AWS EMEA,,,,,,,,,,,,,,,,,4
-02/09/2022,TESCO STORE 2843,,,,,,,,,,,,,,,,,
-01/09/2022,Emma Benger-Stevenson BPMGROUPLTD,,,,,,,,,,,,,,,,,7
+27/09/2022,Amazon.co.uk ZH3982KM5,35.99,,,,,,,,35.99,,,,,,,computer equipment,4
+22/09/2022,Emma Benger-Stevenson BPMGROUPLTD,1700.00,,,,,,,,,,,,1700.00,,,,7
+22/09/2022,CHARLES BENGER-STEVENSON The BPM Group,1700.00,,,,,,,,,,,,1700.00,,,,7
+22/09/2022,Emma Benger-Stevenson BPMGROUPLTD,758.00,,,,,,,,,,,,758.00,,,,7
+22/09/2022,CHARLES BENGER-STEVENSON The BPM Group,758.00,,,,,,,,,,,,758.00,,,,7
+20/09/2022,WWW.VEVOR.CO.UK,81.99,,,,,,,,,,,,,,,,
+20/09/2022,Microsoft G014635346,0.29,,,,,,,,0.29,,,,,,,computer equipment,4
+14/09/2022,CHARLES BENGER-STEVENSON The BPM Group,500.00,,,,,,,,,,,,500.00,,,,7
+09/09/2022,CHARLES BENGER-STEVENSON The BPM Group,500.00,,,,,,,,,,,,500.00,,,,7
+07/09/2022,HMRC VAT Operations 329868644,5940.00,,,,,,,,,,,,,,,,
+06/09/2022,AWS EMEA,33.68,,,,,,,,33.68,,,,,,,computer equipment,4
+02/09/2022,TESCO STORE 2843,9.80,,,,,,,,,,,,,,,,
+01/09/2022,Emma Benger-Stevenson BPMGROUPLTD,500.00,,,,,,,,,,,,500.00,,,,7

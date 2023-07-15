@@ -472,6 +472,6 @@ const enumerateDataFiles = (path = "data") => {
 }
 
 console.log("Starting");
-//enumerateDataFiles();
-parseCSVFile("Transactions_Export_Aug_2022_37511919.csv");
+enumerateDataFiles();
+//parseCSVFile("Transactions_Export_Aug_2022_37511919.csv");
 console.log("Finished");

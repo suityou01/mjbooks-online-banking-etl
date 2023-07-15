@@ -1,19 +1,19 @@
 DATE,DETAILS,BANK_1,BANK_2,BANK_3,ER,CASH_ACCOUNTING_VAT,BANK_CHARGES,EXPENSE_10,ACCOUNTANCY,OTHER_USE,CORPORATION_TAX,VAT_PAYMENT,UNUSED,PAYE_OR_NIC,LOAN_PAYMENTS,FIXED_ASSET_PURCHASES,COMMENTS,TCODE
-30/05/2023,AMZNMktplace,,,,,,,,,,,,,,,,,4
-30/05/2023,AMZNMktplace,,,,,,,,,,,,,,,,,4
-30/05/2023,AMZNMKTPLACE AMAZON.CO,,,,,,,,,,,,,,,,,4
-26/05/2023,Transaction Charges,,,,,,,,,,,,,,,,,
-26/05/2023,Account Maintenance Fee,,,,,,,,,,,,,,,,,
-25/05/2023,Budget Offices The BPM Group Ltd,,,,,,,,,,,,,,,,,4
-25/05/2023,Budget Offices The BPM Group Ltd,,,,,,,,,,,,,,,,,4
-25/05/2023,NON-STERLING TRANSACTION,,,,,,,,,,,,,,,,,
-25/05/2023,ONLINE COURSES 50108983992,,,,,,,,,,,,,,,,,
-25/05/2023,AMZNMktplace,,,,,,,,,,,,,,,,,4
-17/05/2023,TESCO STORES 2843,,,,,,,,,,,,,,,,,
-16/05/2023,"Maidment Judd Limited BE4244 ",,,,,,,,,,,,,,,,,
-16/05/2023,AMZNMktplace,,,,,,,,,,,,,,,,,4
-16/05/2023,Dropbox,,,,,,,,,,,,,,,,,4
-15/05/2023,Amazon.co.uk 229IS3WJ5,,,,,,,,,,,,,,,,,4
-15/05/2023,Microsoft G023179610 50138218310,,,,,,,,,,,,,,,,,4
-04/05/2023,AWS EMEA,,,,,,,,,,,,,,,,,4
-03/05/2023,B M 624 - GIPSY LANE,,,,,,,,,,,,,,,,,
+30/05/2023,AMZNMktplace,28.58,,,,,,,,28.58,,,,,,,computer equipment,4
+30/05/2023,AMZNMktplace,12.99,,,,,,,,12.99,,,,,,,computer equipment,4
+30/05/2023,AMZNMKTPLACE AMAZON.CO,9.99,,,,,,,,9.99,,,,,,,computer equipment,4
+26/05/2023,Transaction Charges,7.80,,,,,,,,,,,,,,,,
+26/05/2023,Account Maintenance Fee,6.00,,,,,,,,,,,,,,,,
+25/05/2023,Budget Offices The BPM Group Ltd,99.00,,,,,,,,99.00,,,,,,,office rental,4
+25/05/2023,Budget Offices The BPM Group Ltd,99.00,,,,,,,,99.00,,,,,,,office rental,4
+25/05/2023,NON-STERLING TRANSACTION,0.10,,,,,,,,,,,,,,,,
+25/05/2023,ONLINE COURSES 50108983992,3.18,,,,,,,,,,,,,,,,
+25/05/2023,AMZNMktplace,20.91,,,,,,,,20.91,,,,,,,computer equipment,4
+17/05/2023,TESCO STORES 2843,7.40,,,,,,,,,,,,,,,,
+16/05/2023,"Maidment Judd Limited BE4244 ",180.00,,,,,,,,,,,,,,,,
+16/05/2023,AMZNMktplace,30.00,,,,,,,,30.00,,,,,,,computer equipment,4
+16/05/2023,Dropbox,9.99,,,,,,,,9.99,,,,,,,computer equipment,4
+15/05/2023,Amazon.co.uk 229IS3WJ5,14.99,,,,,,,,14.99,,,,,,,computer equipment,4
+15/05/2023,Microsoft G023179610 50138218310,0.16,,,,,,,,0.16,,,,,,,computer equipment,4
+04/05/2023,AWS EMEA,27.87,,,,,,,,27.87,,,,,,,computer equipment,4
+03/05/2023,B M 624 - GIPSY LANE,10.04,,,,,,,,,,,,,,,,
